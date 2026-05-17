@@ -3,7 +3,8 @@ A psychological horror game. The player is trapped in an infinite loop within a 
 
 ## 👁️ Gameplay Mechanics
 * **Anomaly Detection:** Players must monitor the environment for subtle or supernatural changes (missing objects, strange reflections, bloody textures, etc.).
-* **Decision-Based Progression:** * No anomalies found? -> Go to bed to advance time.
+* **Decision-Based Progression:**
+    * No anomalies found? -> Go to bed to advance time.
     * Anomaly detected? -> Escape through the front door.
     * Mistake made? -> Time resets to 21:00.
 * **Save/Load System:** Progress is saved between cycles, including the current hour and encountered anomalies.
